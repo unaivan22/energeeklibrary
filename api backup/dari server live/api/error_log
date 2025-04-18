@@ -1,0 +1,521 @@
+[05-Mar-2025 14:50:59 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/eneg1777/public_html/ebrutalism/api/getTeams.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/eneg1777/public_html/ebrutalism/api/getTeams.php on line 26
+[05-Mar-2025 14:51:03 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/eneg1777/public_html/ebrutalism/api/getTeams.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/eneg1777/public_html/ebrutalism/api/getTeams.php on line 26
+[05-Mar-2025 14:51:03 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/eneg1777/public_html/ebrutalism/api/getTeams.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/eneg1777/public_html/ebrutalism/api/getTeams.php on line 26
+[05-Mar-2025 14:55:58 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/eneg1777/public_html/ebrutalism/api/getTeams.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/eneg1777/public_html/ebrutalism/api/getTeams.php on line 26
+[05-Mar-2025 14:56:11 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/eneg1777/public_html/ebrutalism/api/login.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/eneg1777/public_html/ebrutalism/api/login.php on line 43
+[05-Mar-2025 14:56:41 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/eneg1777/public_html/ebrutalism/api/login.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/eneg1777/public_html/ebrutalism/api/login.php on line 43
+[05-Mar-2025 14:56:49 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/eneg1777/public_html/ebrutalism/api/login.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/eneg1777/public_html/ebrutalism/api/login.php on line 43
+[05-Mar-2025 14:58:23 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/eneg1777/public_html/ebrutalism/api/login.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/eneg1777/public_html/ebrutalism/api/login.php on line 36
+[05-Mar-2025 15:00:31 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/eneg1777/public_html/ebrutalism/api/login.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/eneg1777/public_html/ebrutalism/api/login.php on line 36
+[05-Mar-2025 15:01:12 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/eneg1777/public_html/ebrutalism/api/login.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/eneg1777/public_html/ebrutalism/api/login.php on line 43
+[05-Mar-2025 15:03:21 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/eneg1777/public_html/ebrutalism/api/login.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/eneg1777/public_html/ebrutalism/api/login.php on line 36
+[05-Mar-2025 15:04:57 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/eneg1777/public_html/ebrutalism/api/getTeams.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/eneg1777/public_html/ebrutalism/api/getTeams.php on line 26
+[05-Mar-2025 17:04:56 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/eneg1777/public_html/ebrutalism/api/getTeams.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/eneg1777/public_html/ebrutalism/api/getTeams.php on line 26
+[05-Mar-2025 17:06:08 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/eneg1777/public_html/ebrutalism/api/getTeams.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/eneg1777/public_html/ebrutalism/api/getTeams.php on line 26
+[05-Mar-2025 17:06:21 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/eneg1777/public_html/ebrutalism/api/getTeams.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/eneg1777/public_html/ebrutalism/api/getTeams.php on line 26
+[05-Mar-2025 17:06:21 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/eneg1777/public_html/ebrutalism/api/getTeams.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/eneg1777/public_html/ebrutalism/api/getTeams.php on line 26
+[05-Mar-2025 17:28:38 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/eneg1777/public_html/ebrutalism/api/getTeams.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/eneg1777/public_html/ebrutalism/api/getTeams.php on line 26
+[05-Mar-2025 17:32:16 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/eneg1777/public_html/ebrutalism/api/login.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/eneg1777/public_html/ebrutalism/api/login.php on line 36
+[05-Mar-2025 17:32:34 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/eneg1777/public_html/ebrutalism/api/signup.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/eneg1777/public_html/ebrutalism/api/signup.php on line 49
+[05-Mar-2025 17:32:45 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/eneg1777/public_html/ebrutalism/api/login.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/eneg1777/public_html/ebrutalism/api/login.php on line 36
+[05-Mar-2025 17:35:04 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/eneg1777/public_html/ebrutalism/api/login.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/eneg1777/public_html/ebrutalism/api/login.php on line 36
+[05-Mar-2025 17:37:08 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eneg1777_ebrutalism'@'localhost' (using password: YES) in /home/eneg1777/public_html/ebrutalism/api/projects.php on line 6
+[05-Mar-2025 17:37:08 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eneg1777_ebrutalism'@'localhost' (using password: YES) in /home/eneg1777/public_html/ebrutalism/api/projects.php on line 6
+[05-Mar-2025 17:37:08 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eneg1777_ebrutalism'@'localhost' (using password: YES) in /home/eneg1777/public_html/ebrutalism/api/projects.php on line 6
+[05-Mar-2025 17:37:08 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eneg1777_ebrutalism'@'localhost' (using password: YES) in /home/eneg1777/public_html/ebrutalism/api/projects.php on line 6
+[05-Mar-2025 17:37:09 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eneg1777_ebrutalism'@'localhost' (using password: YES) in /home/eneg1777/public_html/ebrutalism/api/projects.php on line 6
+[05-Mar-2025 17:37:09 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eneg1777_ebrutalism'@'localhost' (using password: YES) in /home/eneg1777/public_html/ebrutalism/api/projects.php on line 6
+[05-Mar-2025 17:37:09 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eneg1777_ebrutalism'@'localhost' (using password: YES) in /home/eneg1777/public_html/ebrutalism/api/projects.php on line 6
+[05-Mar-2025 17:37:09 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eneg1777_ebrutalism'@'localhost' (using password: YES) in /home/eneg1777/public_html/ebrutalism/api/projects.php on line 6
+[05-Mar-2025 17:37:09 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eneg1777_ebrutalism'@'localhost' (using password: YES) in /home/eneg1777/public_html/ebrutalism/api/projects.php on line 6
+[05-Mar-2025 17:37:09 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eneg1777_ebrutalism'@'localhost' (using password: YES) in /home/eneg1777/public_html/ebrutalism/api/projects.php on line 6
+[05-Mar-2025 17:37:09 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eneg1777_ebrutalism'@'localhost' (using password: YES) in /home/eneg1777/public_html/ebrutalism/api/projects.php on line 6
+[05-Mar-2025 17:37:09 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eneg1777_ebrutalism'@'localhost' (using password: YES) in /home/eneg1777/public_html/ebrutalism/api/projects.php on line 6
+[05-Mar-2025 17:37:51 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eneg1777_ebrutalism'@'localhost' (using password: YES) in /home/eneg1777/public_html/ebrutalism/api/projects.php on line 6
+[05-Mar-2025 17:37:52 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eneg1777_ebrutalism'@'localhost' (using password: YES) in /home/eneg1777/public_html/ebrutalism/api/projects.php on line 6
+[05-Mar-2025 17:37:52 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eneg1777_ebrutalism'@'localhost' (using password: YES) in /home/eneg1777/public_html/ebrutalism/api/projects.php on line 6
+[05-Mar-2025 17:37:52 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eneg1777_ebrutalism'@'localhost' (using password: YES) in /home/eneg1777/public_html/ebrutalism/api/projects.php on line 6
+[05-Mar-2025 17:37:52 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eneg1777_ebrutalism'@'localhost' (using password: YES) in /home/eneg1777/public_html/ebrutalism/api/projects.php on line 6
+[05-Mar-2025 17:37:52 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eneg1777_ebrutalism'@'localhost' (using password: YES) in /home/eneg1777/public_html/ebrutalism/api/projects.php on line 6
+[05-Mar-2025 17:37:52 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eneg1777_ebrutalism'@'localhost' (using password: YES) in /home/eneg1777/public_html/ebrutalism/api/projects.php on line 6
+[05-Mar-2025 17:37:52 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eneg1777_ebrutalism'@'localhost' (using password: YES) in /home/eneg1777/public_html/ebrutalism/api/projects.php on line 6
+[05-Mar-2025 17:37:53 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eneg1777_ebrutalism'@'localhost' (using password: YES) in /home/eneg1777/public_html/ebrutalism/api/projects.php on line 6
+[05-Mar-2025 17:37:53 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eneg1777_ebrutalism'@'localhost' (using password: YES) in /home/eneg1777/public_html/ebrutalism/api/projects.php on line 6
+[05-Mar-2025 17:38:22 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eneg1777_ebrutalism'@'localhost' (using password: YES) in /home/eneg1777/public_html/ebrutalism/api/getTeams.php on line 17
+[05-Mar-2025 17:38:22 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eneg1777_ebrutalism'@'localhost' (using password: YES) in /home/eneg1777/public_html/ebrutalism/api/projects.php on line 6
+[05-Mar-2025 17:38:22 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eneg1777_ebrutalism'@'localhost' (using password: YES) in /home/eneg1777/public_html/ebrutalism/api/projects.php on line 6
+[05-Mar-2025 17:38:22 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eneg1777_ebrutalism'@'localhost' (using password: YES) in /home/eneg1777/public_html/ebrutalism/api/getTeams.php on line 17
+[05-Mar-2025 17:38:22 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eneg1777_ebrutalism'@'localhost' (using password: YES) in /home/eneg1777/public_html/ebrutalism/api/getTeams.php on line 17
+[05-Mar-2025 17:38:22 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eneg1777_ebrutalism'@'localhost' (using password: YES) in /home/eneg1777/public_html/ebrutalism/api/projects.php on line 6
+[05-Mar-2025 17:38:22 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eneg1777_ebrutalism'@'localhost' (using password: YES) in /home/eneg1777/public_html/ebrutalism/api/projects.php on line 6
+[05-Mar-2025 17:38:23 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eneg1777_ebrutalism'@'localhost' (using password: YES) in /home/eneg1777/public_html/ebrutalism/api/getTeams.php on line 17
+[05-Mar-2025 17:38:23 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eneg1777_ebrutalism'@'localhost' (using password: YES) in /home/eneg1777/public_html/ebrutalism/api/projects.php on line 6
+[05-Mar-2025 17:38:23 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eneg1777_ebrutalism'@'localhost' (using password: YES) in /home/eneg1777/public_html/ebrutalism/api/getTeams.php on line 17
+[05-Mar-2025 17:38:23 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eneg1777_ebrutalism'@'localhost' (using password: YES) in /home/eneg1777/public_html/ebrutalism/api/projects.php on line 6
+[05-Mar-2025 17:38:23 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eneg1777_ebrutalism'@'localhost' (using password: YES) in /home/eneg1777/public_html/ebrutalism/api/projects.php on line 6
+[05-Mar-2025 17:38:23 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eneg1777_ebrutalism'@'localhost' (using password: YES) in /home/eneg1777/public_html/ebrutalism/api/getTeams.php on line 17
+[05-Mar-2025 17:38:23 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eneg1777_ebrutalism'@'localhost' (using password: YES) in /home/eneg1777/public_html/ebrutalism/api/getTeams.php on line 17
+[05-Mar-2025 17:38:23 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eneg1777_ebrutalism'@'localhost' (using password: YES) in /home/eneg1777/public_html/ebrutalism/api/getTeams.php on line 17
+[05-Mar-2025 17:38:23 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eneg1777_ebrutalism'@'localhost' (using password: YES) in /home/eneg1777/public_html/ebrutalism/api/projects.php on line 6
+[05-Mar-2025 17:38:23 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eneg1777_ebrutalism'@'localhost' (using password: YES) in /home/eneg1777/public_html/ebrutalism/api/getTeams.php on line 17
+[05-Mar-2025 17:38:23 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eneg1777_ebrutalism'@'localhost' (using password: YES) in /home/eneg1777/public_html/ebrutalism/api/projects.php on line 6
+[05-Mar-2025 17:38:23 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eneg1777_ebrutalism'@'localhost' (using password: YES) in /home/eneg1777/public_html/ebrutalism/api/projects.php on line 6
+[05-Mar-2025 17:38:23 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eneg1777_ebrutalism'@'localhost' (using password: YES) in /home/eneg1777/public_html/ebrutalism/api/getTeams.php on line 17
+[05-Mar-2025 17:38:25 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eneg1777_ebrutalism'@'localhost' (using password: YES) in /home/eneg1777/public_html/ebrutalism/api/projects.php on line 6
+[05-Mar-2025 17:38:25 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eneg1777_ebrutalism'@'localhost' (using password: YES) in /home/eneg1777/public_html/ebrutalism/api/projects.php on line 6
+[05-Mar-2025 17:38:25 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eneg1777_ebrutalism'@'localhost' (using password: YES) in /home/eneg1777/public_html/ebrutalism/api/getTeams.php on line 17
+[05-Mar-2025 17:38:25 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eneg1777_ebrutalism'@'localhost' (using password: YES) in /home/eneg1777/public_html/ebrutalism/api/getTeams.php on line 17
+[05-Mar-2025 17:38:49 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eneg1777_ebrutalism'@'localhost' (using password: YES) in /home/eneg1777/public_html/ebrutalism/api/projects.php on line 6
+[05-Mar-2025 17:38:49 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eneg1777_ebrutalism'@'localhost' (using password: YES) in /home/eneg1777/public_html/ebrutalism/api/projects.php on line 6
+[05-Mar-2025 17:38:49 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eneg1777_ebrutalism'@'localhost' (using password: YES) in /home/eneg1777/public_html/ebrutalism/api/projects.php on line 6
+[05-Mar-2025 17:38:49 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eneg1777_ebrutalism'@'localhost' (using password: YES) in /home/eneg1777/public_html/ebrutalism/api/projects.php on line 6
+[05-Mar-2025 17:38:49 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eneg1777_ebrutalism'@'localhost' (using password: YES) in /home/eneg1777/public_html/ebrutalism/api/projects.php on line 6
+[05-Mar-2025 17:38:49 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eneg1777_ebrutalism'@'localhost' (using password: YES) in /home/eneg1777/public_html/ebrutalism/api/projects.php on line 6
+[05-Mar-2025 17:38:49 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eneg1777_ebrutalism'@'localhost' (using password: YES) in /home/eneg1777/public_html/ebrutalism/api/projects.php on line 6
+[05-Mar-2025 17:38:49 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eneg1777_ebrutalism'@'localhost' (using password: YES) in /home/eneg1777/public_html/ebrutalism/api/projects.php on line 6
+[05-Mar-2025 17:38:49 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eneg1777_ebrutalism'@'localhost' (using password: YES) in /home/eneg1777/public_html/ebrutalism/api/projects.php on line 6
+[05-Mar-2025 17:38:50 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eneg1777_ebrutalism'@'localhost' (using password: YES) in /home/eneg1777/public_html/ebrutalism/api/projects.php on line 6
+[05-Mar-2025 17:38:57 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eneg1777_ebrutalism'@'localhost' (using password: YES) in /home/eneg1777/public_html/ebrutalism/api/projects.php on line 6
+[05-Mar-2025 17:38:57 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eneg1777_ebrutalism'@'localhost' (using password: YES) in /home/eneg1777/public_html/ebrutalism/api/projects.php on line 6
+[05-Mar-2025 17:39:34 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eneg1777_ebrutalism'@'localhost' (using password: YES) in /home/eneg1777/public_html/ebrutalism/api/getTeams.php on line 17
+[05-Mar-2025 17:41:01 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/eneg1777/public_html/ebrutalism/api/getTeams.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/eneg1777/public_html/ebrutalism/api/getTeams.php on line 26
+[05-Mar-2025 17:41:11 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/eneg1777/public_html/ebrutalism/api/getTeams.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/eneg1777/public_html/ebrutalism/api/getTeams.php on line 26
+[05-Mar-2025 17:41:20 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/eneg1777/public_html/ebrutalism/api/getTeams.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/eneg1777/public_html/ebrutalism/api/getTeams.php on line 26
+[05-Mar-2025 17:45:10 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/eneg1777/public_html/ebrutalism/api/getTeams.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/eneg1777/public_html/ebrutalism/api/getTeams.php on line 26
+[05-Mar-2025 17:45:37 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/eneg1777/public_html/ebrutalism/api/getTeams.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/eneg1777/public_html/ebrutalism/api/getTeams.php on line 26
+[05-Mar-2025 17:45:38 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/eneg1777/public_html/ebrutalism/api/getTeams.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/eneg1777/public_html/ebrutalism/api/getTeams.php on line 26
+[05-Mar-2025 17:45:38 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/eneg1777/public_html/ebrutalism/api/getTeams.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/eneg1777/public_html/ebrutalism/api/getTeams.php on line 26
+[05-Mar-2025 17:45:38 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/eneg1777/public_html/ebrutalism/api/getTeams.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/eneg1777/public_html/ebrutalism/api/getTeams.php on line 26
+[05-Mar-2025 17:45:44 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eneg1777_ebrutalism'@'localhost' (using password: YES) in /home/eneg1777/public_html/ebrutalism/api/projects.php on line 6
+[05-Mar-2025 17:45:44 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/eneg1777/public_html/ebrutalism/api/getTeams.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/eneg1777/public_html/ebrutalism/api/getTeams.php on line 26
+[05-Mar-2025 17:45:44 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eneg1777_ebrutalism'@'localhost' (using password: YES) in /home/eneg1777/public_html/ebrutalism/api/projects.php on line 6
+[05-Mar-2025 17:45:44 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/eneg1777/public_html/ebrutalism/api/getTeams.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/eneg1777/public_html/ebrutalism/api/getTeams.php on line 26
+[05-Mar-2025 17:46:44 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/eneg1777/public_html/ebrutalism/api/getTeams.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/eneg1777/public_html/ebrutalism/api/getTeams.php on line 26
+[05-Mar-2025 17:52:07 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eneg1777_ebrutalism'@'localhost' (using password: YES) in /home/eneg1777/public_html/ebrutalism/api/projects.php on line 6
+[05-Mar-2025 17:52:07 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eneg1777_ebrutalism'@'localhost' (using password: YES) in /home/eneg1777/public_html/ebrutalism/api/projects.php on line 6
+[05-Mar-2025 17:52:07 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eneg1777_ebrutalism'@'localhost' (using password: YES) in /home/eneg1777/public_html/ebrutalism/api/projects.php on line 6
+[05-Mar-2025 17:52:07 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eneg1777_ebrutalism'@'localhost' (using password: YES) in /home/eneg1777/public_html/ebrutalism/api/projects.php on line 6
+[05-Mar-2025 17:52:07 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eneg1777_ebrutalism'@'localhost' (using password: YES) in /home/eneg1777/public_html/ebrutalism/api/projects.php on line 6
+[05-Mar-2025 17:52:07 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eneg1777_ebrutalism'@'localhost' (using password: YES) in /home/eneg1777/public_html/ebrutalism/api/projects.php on line 6
+[05-Mar-2025 17:52:07 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eneg1777_ebrutalism'@'localhost' (using password: YES) in /home/eneg1777/public_html/ebrutalism/api/projects.php on line 6
+[05-Mar-2025 17:52:07 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eneg1777_ebrutalism'@'localhost' (using password: YES) in /home/eneg1777/public_html/ebrutalism/api/projects.php on line 6
+[05-Mar-2025 18:59:14 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/eneg1777/public_html/ebrutalism/api/getTeams.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/eneg1777/public_html/ebrutalism/api/getTeams.php on line 26
+[05-Mar-2025 18:59:17 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/eneg1777/public_html/ebrutalism/api/getTeams.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/eneg1777/public_html/ebrutalism/api/getTeams.php on line 26
+[05-Mar-2025 18:59:18 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/eneg1777/public_html/ebrutalism/api/getTeams.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/eneg1777/public_html/ebrutalism/api/getTeams.php on line 26
+[05-Mar-2025 18:59:49 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eneg1777_ebrutalism_user'@'localhost' (using password: YES) in /home/eneg1777/public_html/ebrutalism/api/getTeams.php on line 17
+[05-Mar-2025 19:00:00 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/eneg1777/public_html/ebrutalism/api/getTeams.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/eneg1777/public_html/ebrutalism/api/getTeams.php on line 26
+[05-Mar-2025 19:02:38 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eneg1777_ebrutalism'@'localhost' (using password: YES) in /home/eneg1777/public_html/ebrutalism/api/projects.php on line 6
+[05-Mar-2025 19:03:27 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eneg1777_ebrutalism'@'localhost' (using password: YES) in /home/eneg1777/public_html/ebrutalism/api/projects.php on line 6
+[05-Mar-2025 19:05:01 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eneg1777_ebrutalism'@'localhost' (using password: YES) in /home/eneg1777/public_html/ebrutalism/api/projects.php on line 6
+[05-Mar-2025 19:06:45 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eneg1777_ebrutalism'@'localhost' (using password: YES) in /home/eneg1777/public_html/ebrutalism/api/projects.php on line 6
+[05-Mar-2025 19:07:04 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eneg1777_ebrutalism'@'localhost' (using password: YES) in /home/eneg1777/public_html/ebrutalism/api/config.php on line 7
+[05-Mar-2025 19:09:03 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eneg1777_ebrutalism'@'localhost' (using password: YES) in /home/eneg1777/public_html/ebrutalism/api/projects.php on line 6
+[05-Mar-2025 19:09:10 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eneg1777_ebrutalism'@'localhost' (using password: YES) in /home/eneg1777/public_html/ebrutalism/api/projects.php on line 6
+[05-Mar-2025 19:15:21 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'energeekbrutalism'@'localhost' (using password: YES) in /home/eneg1777/public_html/ebrutalism/api/projects.php on line 6
+[05-Mar-2025 19:24:53 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eneg1777_ebrutalism'@'localhost' (using password: YES) in /home/eneg1777/public_html/ebrutalism/api/project.php on line 6
+[05-Mar-2025 19:30:38 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eneg1777_ebrutalism'@'localhost' (using password: YES) in /home/eneg1777/public_html/ebrutalism/api/teams.php on line 17
+[05-Mar-2025 19:30:48 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eneg1777_ebrutalism'@'localhost' (using password: YES) in /home/eneg1777/public_html/ebrutalism/api/get_project.php on line 6
+[05-Mar-2025 19:33:32 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eneg1777_ebrutalism'@'localhost' (using password: YES) in /home/eneg1777/public_html/ebrutalism/api/db.php on line 7
+[05-Mar-2025 19:34:35 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eneg1777_ebrutalism'@'localhost' (using password: YES) in /home/eneg1777/public_html/ebrutalism/api/deleteTeam.php on line 11
+[05-Mar-2025 19:35:15 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eneg1777_ebrutalism'@'localhost' (using password: YES) in /home/eneg1777/public_html/ebrutalism/api/edit_project.php on line 6
+[05-Mar-2025 19:35:45 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/eneg1777/public_html/ebrutalism/api/edit_project.php on line 33
+[05-Mar-2025 19:36:30 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eneg1777_ebrutalism'@'localhost' (using password: YES) in /home/eneg1777/public_html/ebrutalism/api/save_project.php on line 6
+[05-Mar-2025 19:37:12 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eneg1777_ebrutalism'@'localhost' (using password: YES) in /home/eneg1777/public_html/ebrutalism/api/teams.php on line 17
+[05-Mar-2025 19:37:43 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eneg1777_ebrutalism'@'localhost' (using password: YES) in /home/eneg1777/public_html/ebrutalism/api/updateTeam.php on line 12
+[05-Mar-2025 19:38:37 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/eneg1777/public_html/ebrutalism/api/upload_screenshots.php on line 8
+[05-Mar-2025 19:38:58 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eneg1777_ebrutalism'@'localhost' (using password: YES) in /home/eneg1777/public_html/ebrutalism/api/upload_thumbnail.php on line 6
+[05-Mar-2025 19:43:27 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eneg1777_ebrutalism_users'@'localhost' (using password: YES) in /home/eneg1777/public_html/ebrutalism/api/projects.php on line 7
+[05-Mar-2025 19:43:30 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eneg1777_ebrutalism_users'@'localhost' (using password: YES) in /home/eneg1777/public_html/ebrutalism/api/projects.php on line 7
+[05-Mar-2025 19:43:38 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eneg1777_ebrutalism_user'@'localhost' (using password: YES) in /home/eneg1777/public_html/ebrutalism/api/projects.php on line 7
+[05-Mar-2025 19:43:40 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eneg1777_ebrutalism_user'@'localhost' (using password: YES) in /home/eneg1777/public_html/ebrutalism/api/projects.php on line 7
+[05-Mar-2025 19:43:40 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eneg1777_ebrutalism_user'@'localhost' (using password: YES) in /home/eneg1777/public_html/ebrutalism/api/projects.php on line 7
+[05-Mar-2025 19:43:40 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eneg1777_ebrutalism_user'@'localhost' (using password: YES) in /home/eneg1777/public_html/ebrutalism/api/projects.php on line 7
+[05-Mar-2025 20:44:32 Asia/Jakarta] Data projek: Array
+(
+    [0] => Array
+        (
+            [id] => 50
+            [name] => 
+            [thumbnail] => 
+            [description] => 
+            [year] => 
+            [client] => 
+            [screenshots] => 
+        )
+
+    [1] => Array
+        (
+            [id] => 49
+            [name] => PKC – 2CE
+            [thumbnail] => /api/uploads/project-67c7c1e29cbcb.webp
+            [description] => <p><strong style="color: rgb(104, 104, 118);">PKC – CCE&nbsp;</strong><span style="color: rgb(104, 104, 118);">merupakan aplikasi berbasis web yang digunakan oleh PT Pupuk Kujang Cikampek untuk sarana peningkatan kepuasan pelanggan dalam pelayanan pemuatan produk non subsidi secara digital</span></p>
+            [year] => 2022
+            [client] => PT Pupuk Kujang Cikampek
+            [screenshots] => Array
+                (
+                    [0] => /api/uploads/screenshot-67c7c1e2a552a.webp
+                    [1] => /api/uploads/screenshot-67c7c1e2a5805.webp
+                    [2] => /api/uploads/screenshot-67c7c1e2a58df.webp
+                )
+
+        )
+
+    [2] => Array
+        (
+            [id] => 48
+            [name] => Petrokimia – Payroll
+            [thumbnail] => /api/uploads/project-67c7c17e41a9e.webp
+            [description] => <p><strong style="color: rgb(104, 104, 118);">Petrokimia – Payroll&nbsp;</strong><span style="color: rgb(104, 104, 118);">merupakan aplikasi penggajian berbasis web yang digunakan oleh PT Petrokimia Gresik untuk mengelola proses pembayaran gaji karyawan secara digital dan efisien.</span></p>
+            [year] => 2024
+            [client] => Petrokimia Gresik
+            [screenshots] => Array
+                (
+                    [0] => /api/uploads/screenshot-67c7d7d8204dc.webp
+                    [1] => /api/uploads/screenshot-67c7d7d82065c.webp
+                    [2] => /api/uploads/screenshot-67c7d7d82077d.webp
+                    [3] => /api/uploads/screenshot-67c7d7d8208b4.webp
+                    [4] => /api/uploads/screenshot-67c7d7d8209c2.webp
+                    [5] => /api/uploads/screenshot-67c7d7d820ae0.webp
+                )
+
+        )
+
+    [3] => Array
+        (
+            [id] => 47
+            [name] => D-UKOM V2
+            [thumbnail] => /api/uploads/project-67c7ba2e2ef84.webp
+            [description] => <p><strong style="color: rgb(104, 104, 118);">D-UKOM V2&nbsp;</strong><span style="color: rgb(104, 104, 118);">merupakan aplikasi berbasis web yang digunakan oleh Dinas Kesehatan Provinsi Jawa Timur untuk kegiatan uji kompetensi pegawai sebagai kebutuhan Penilaian dan Penetapan Angka Kredit Jabatan Fungsional Kepegawaian, sehingga aplikasi E-Ukom diintegrasikan dengan aplikasi E-Dupak. D-UKOM v2 ini juga merupakan upgrade dari E-UKOM (v1) dengan beberapa fitur tambahan di dalamnya</span></p>
+            [year] => 2024
+            [client] => Dinas Kesehatan Provinsi Jawa Timur
+            [screenshots] => Array
+                (
+                    [0] => /api/uploads/screenshot-67c7ba2e34022.webp
+                    [1] => /api/uploads/screenshot-67c7ba2e34297.webp
+                )
+
+        )
+
+    [4] => Array
+        (
+            [id] => 46
+            [name] => KSI SSO
+            [thumbnail] => /api/uploads/project-67c7b8e0accfc.webp
+            [description] => <p><strong style="color: rgb(104, 104, 118);">KSI – SSO&nbsp;</strong><span style="color: rgb(104, 104, 118);">adalah fitur autentikasi yang memungkinkan pengguna untuk melakukan login satu kali menggunakan layanan Google. Dengan sekali login, pengguna dapat mengakses seluruh ekosistem aplikasi yang terhubung tanpa harus mengulangi proses login untuk setiap aplikasi, sehingga lebih praktis dan efisien.</span></p>
+            [year] => 2025
+            [client] => PT Krakatau Steel (Persero)
+            [screenshots] => Array
+                (
+                    [0] => /api/uploads/screenshot-67c7b8e0b1453.webp
+                    [1] => /api/uploads/screenshot-67c7b8e0b172b.webp
+                )
+
+        )
+
+    [5] => Array
+        (
+            [id] => 45
+            [name] => 123213
+            [thumbnail] => /api/uploads/project-77ebb15a.jpg
+            [description] => <p>dasdasd</p>
+            [year] => 213123
+            [client] => xyz
+            [screenshots] => Array
+                (
+                    [0] => /api/uploads/screenshot-67c7128ca939b.webp
+                    [1] => /api/uploads/screenshot-67c7128ca9cf9.webp
+                    [2] => /api/uploads/screenshot-67c798496f9e7.jpeg
+                    [3] => /api/uploads/screenshot-67c798496fcbf.jpeg
+                    [4] => /api/uploads/screenshot-67c7985cd6fd9.jpeg
+                )
+
+        )
+
+)
+
+[05-Mar-2025 20:47:56 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eneg1777_ebrutalism_users'@'localhost' (using password: YES) in /home/eneg1777/public_html/ebrutalism/api/projects.php on line 6
+[06-Mar-2025 13:21:50 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eneg1777_ebrutalism_usersa'@'localhost' (using password: YES) in /home/eneg1777/public_html/ebrutalism/api/teams.php on line 17
+[06-Mar-2025 13:26:49 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/eneg1777/public_html/ebrutalism/api/updateTeam.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/eneg1777/public_html/ebrutalism/api/updateTeam.php on line 29
+[07-Mar-2025 08:30:34 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/eneg1777/public_html/ebrutalism/api/blogs.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/eneg1777/public_html/ebrutalism/api/blogs.php on line 37
+[07-Mar-2025 08:30:36 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/eneg1777/public_html/ebrutalism/api/blogs.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/eneg1777/public_html/ebrutalism/api/blogs.php on line 37
+[07-Mar-2025 08:30:49 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/eneg1777/public_html/ebrutalism/api/blogs.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/eneg1777/public_html/ebrutalism/api/blogs.php on line 37
+[07-Mar-2025 08:31:16 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/eneg1777/public_html/ebrutalism/api/blogs.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/eneg1777/public_html/ebrutalism/api/blogs.php on line 35
+[07-Mar-2025 08:31:17 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/eneg1777/public_html/ebrutalism/api/blogs.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/eneg1777/public_html/ebrutalism/api/blogs.php on line 35
+[07-Mar-2025 08:31:18 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/eneg1777/public_html/ebrutalism/api/blogs.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/eneg1777/public_html/ebrutalism/api/blogs.php on line 35
+[07-Mar-2025 08:31:18 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/eneg1777/public_html/ebrutalism/api/blogs.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/eneg1777/public_html/ebrutalism/api/blogs.php on line 35
+[07-Mar-2025 08:35:58 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/eneg1777/public_html/ebrutalism/api/getBlogs.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/eneg1777/public_html/ebrutalism/api/getBlogs.php on line 26
+[07-Mar-2025 08:39:07 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/eneg1777/public_html/ebrutalism/api/getBlogs.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/eneg1777/public_html/ebrutalism/api/getBlogs.php on line 26
+[07-Mar-2025 08:39:07 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/eneg1777/public_html/ebrutalism/api/getBlogs.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/eneg1777/public_html/ebrutalism/api/getBlogs.php on line 26
+[07-Mar-2025 08:42:16 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/eneg1777/public_html/ebrutalism/api/getBlogs.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/eneg1777/public_html/ebrutalism/api/getBlogs.php on line 26
+[07-Mar-2025 08:42:17 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/eneg1777/public_html/ebrutalism/api/getBlogs.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/eneg1777/public_html/ebrutalism/api/getBlogs.php on line 26
+[07-Mar-2025 08:42:46 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/eneg1777/public_html/ebrutalism/api/getBlogs.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/eneg1777/public_html/ebrutalism/api/getBlogs.php on line 26
+[07-Mar-2025 08:43:17 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/eneg1777/public_html/ebrutalism/api/getBlogs.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/eneg1777/public_html/ebrutalism/api/getBlogs.php on line 26
+[07-Mar-2025 08:48:43 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/eneg1777/public_html/ebrutalism/api/getBlogs.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/eneg1777/public_html/ebrutalism/api/getBlogs.php on line 26
+[07-Mar-2025 08:48:43 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/eneg1777/public_html/ebrutalism/api/getBlogs.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/eneg1777/public_html/ebrutalism/api/getBlogs.php on line 26
+[07-Mar-2025 08:48:47 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/eneg1777/public_html/ebrutalism/api/getBlogs.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/eneg1777/public_html/ebrutalism/api/getBlogs.php on line 26
+[07-Mar-2025 08:48:49 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/eneg1777/public_html/ebrutalism/api/getBlogs.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/eneg1777/public_html/ebrutalism/api/getBlogs.php on line 26
+[07-Mar-2025 08:50:46 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/eneg1777/public_html/ebrutalism/api/getBlogs.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/eneg1777/public_html/ebrutalism/api/getBlogs.php on line 26
+[07-Mar-2025 08:50:47 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/eneg1777/public_html/ebrutalism/api/getBlogs.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/eneg1777/public_html/ebrutalism/api/getBlogs.php on line 26
+[07-Mar-2025 08:51:10 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/eneg1777/public_html/ebrutalism/api/getBlogs.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/eneg1777/public_html/ebrutalism/api/getBlogs.php on line 26
+[07-Mar-2025 08:51:10 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/eneg1777/public_html/ebrutalism/api/getBlogs.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/eneg1777/public_html/ebrutalism/api/getBlogs.php on line 26
+[07-Mar-2025 09:25:54 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/eneg1777/public_html/ebrutalism/api/getBlogs.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/eneg1777/public_html/ebrutalism/api/getBlogs.php on line 26
+[07-Mar-2025 09:25:54 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/eneg1777/public_html/ebrutalism/api/getBlogs.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/eneg1777/public_html/ebrutalism/api/getBlogs.php on line 26
+[07-Mar-2025 09:25:56 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/eneg1777/public_html/ebrutalism/api/getBlogs.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/eneg1777/public_html/ebrutalism/api/getBlogs.php on line 26
+[07-Mar-2025 09:25:56 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/eneg1777/public_html/ebrutalism/api/getBlogs.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/eneg1777/public_html/ebrutalism/api/getBlogs.php on line 26
+[07-Mar-2025 10:12:52 Asia/Jakarta] PHP Warning:  Use of undefined constant blog - assumed 'blog' (this will throw an Error in a future version of PHP) in /home/eneg1777/public_html/ebrutalism/api/get_blog.php on line 17
+[07-Mar-2025 10:12:52 Asia/Jakarta] PHP Warning:  Use of undefined constant blog - assumed 'blog' (this will throw an Error in a future version of PHP) in /home/eneg1777/public_html/ebrutalism/api/get_blog.php on line 17
+[07-Mar-2025 10:12:53 Asia/Jakarta] PHP Warning:  Use of undefined constant blog - assumed 'blog' (this will throw an Error in a future version of PHP) in /home/eneg1777/public_html/ebrutalism/api/get_blog.php on line 17
+[07-Mar-2025 10:12:53 Asia/Jakarta] PHP Warning:  Use of undefined constant blog - assumed 'blog' (this will throw an Error in a future version of PHP) in /home/eneg1777/public_html/ebrutalism/api/get_blog.php on line 17
+[07-Mar-2025 10:13:24 Asia/Jakarta] PHP Warning:  Use of undefined constant blog - assumed 'blog' (this will throw an Error in a future version of PHP) in /home/eneg1777/public_html/ebrutalism/api/get_blog.php on line 17
+[07-Mar-2025 10:13:24 Asia/Jakarta] PHP Warning:  Use of undefined constant blog - assumed 'blog' (this will throw an Error in a future version of PHP) in /home/eneg1777/public_html/ebrutalism/api/get_blog.php on line 17
+[07-Mar-2025 10:13:27 Asia/Jakarta] PHP Warning:  Use of undefined constant blog - assumed 'blog' (this will throw an Error in a future version of PHP) in /home/eneg1777/public_html/ebrutalism/api/get_blog.php on line 17
+[07-Mar-2025 10:13:27 Asia/Jakarta] PHP Warning:  Use of undefined constant blog - assumed 'blog' (this will throw an Error in a future version of PHP) in /home/eneg1777/public_html/ebrutalism/api/get_blog.php on line 17
+[07-Mar-2025 10:14:11 Asia/Jakarta] PHP Warning:  Use of undefined constant blog - assumed 'blog' (this will throw an Error in a future version of PHP) in /home/eneg1777/public_html/ebrutalism/api/get_blog.php on line 17
+[07-Mar-2025 10:14:11 Asia/Jakarta] PHP Warning:  Use of undefined constant blog - assumed 'blog' (this will throw an Error in a future version of PHP) in /home/eneg1777/public_html/ebrutalism/api/get_blog.php on line 17
+[07-Mar-2025 10:14:12 Asia/Jakarta] PHP Warning:  Use of undefined constant blog - assumed 'blog' (this will throw an Error in a future version of PHP) in /home/eneg1777/public_html/ebrutalism/api/get_blog.php on line 17
+[07-Mar-2025 10:14:12 Asia/Jakarta] PHP Warning:  Use of undefined constant blog - assumed 'blog' (this will throw an Error in a future version of PHP) in /home/eneg1777/public_html/ebrutalism/api/get_blog.php on line 17
+[07-Mar-2025 10:14:13 Asia/Jakarta] PHP Warning:  Use of undefined constant blog - assumed 'blog' (this will throw an Error in a future version of PHP) in /home/eneg1777/public_html/ebrutalism/api/get_blog.php on line 17
+[07-Mar-2025 10:14:13 Asia/Jakarta] PHP Warning:  Use of undefined constant blog - assumed 'blog' (this will throw an Error in a future version of PHP) in /home/eneg1777/public_html/ebrutalism/api/get_blog.php on line 17
+[07-Mar-2025 10:14:23 Asia/Jakarta] PHP Warning:  Use of undefined constant blog - assumed 'blog' (this will throw an Error in a future version of PHP) in /home/eneg1777/public_html/ebrutalism/api/get_blog.php on line 17
+[07-Mar-2025 10:14:23 Asia/Jakarta] PHP Warning:  Use of undefined constant blog - assumed 'blog' (this will throw an Error in a future version of PHP) in /home/eneg1777/public_html/ebrutalism/api/get_blog.php on line 17
+[07-Mar-2025 10:14:41 Asia/Jakarta] PHP Warning:  Use of undefined constant blog - assumed 'blog' (this will throw an Error in a future version of PHP) in /home/eneg1777/public_html/ebrutalism/api/get_blog.php on line 17
+[07-Mar-2025 10:14:41 Asia/Jakarta] PHP Warning:  Use of undefined constant blog - assumed 'blog' (this will throw an Error in a future version of PHP) in /home/eneg1777/public_html/ebrutalism/api/get_blog.php on line 17
+[07-Mar-2025 10:14:47 Asia/Jakarta] PHP Warning:  Use of undefined constant blog - assumed 'blog' (this will throw an Error in a future version of PHP) in /home/eneg1777/public_html/ebrutalism/api/get_blog.php on line 17
+[07-Mar-2025 10:14:47 Asia/Jakarta] PHP Warning:  Use of undefined constant blog - assumed 'blog' (this will throw an Error in a future version of PHP) in /home/eneg1777/public_html/ebrutalism/api/get_blog.php on line 17
+[07-Mar-2025 10:14:51 Asia/Jakarta] PHP Warning:  Use of undefined constant blog - assumed 'blog' (this will throw an Error in a future version of PHP) in /home/eneg1777/public_html/ebrutalism/api/get_blog.php on line 17
+[07-Mar-2025 10:14:51 Asia/Jakarta] PHP Warning:  Use of undefined constant blog - assumed 'blog' (this will throw an Error in a future version of PHP) in /home/eneg1777/public_html/ebrutalism/api/get_blog.php on line 17
+[07-Mar-2025 10:14:56 Asia/Jakarta] PHP Warning:  Use of undefined constant blog - assumed 'blog' (this will throw an Error in a future version of PHP) in /home/eneg1777/public_html/ebrutalism/api/get_blog.php on line 17
+[07-Mar-2025 10:14:56 Asia/Jakarta] PHP Warning:  Use of undefined constant blog - assumed 'blog' (this will throw an Error in a future version of PHP) in /home/eneg1777/public_html/ebrutalism/api/get_blog.php on line 17
+[07-Mar-2025 10:15:00 Asia/Jakarta] PHP Warning:  Use of undefined constant blog - assumed 'blog' (this will throw an Error in a future version of PHP) in /home/eneg1777/public_html/ebrutalism/api/get_blog.php on line 17
+[07-Mar-2025 10:15:00 Asia/Jakarta] PHP Warning:  Use of undefined constant blog - assumed 'blog' (this will throw an Error in a future version of PHP) in /home/eneg1777/public_html/ebrutalism/api/get_blog.php on line 17
+[07-Mar-2025 10:15:06 Asia/Jakarta] PHP Warning:  Use of undefined constant blog - assumed 'blog' (this will throw an Error in a future version of PHP) in /home/eneg1777/public_html/ebrutalism/api/get_blog.php on line 17
+[07-Mar-2025 10:15:06 Asia/Jakarta] PHP Warning:  Use of undefined constant blog - assumed 'blog' (this will throw an Error in a future version of PHP) in /home/eneg1777/public_html/ebrutalism/api/get_blog.php on line 17
+[07-Mar-2025 10:16:45 Asia/Jakarta] PHP Warning:  Use of undefined constant blog - assumed 'blog' (this will throw an Error in a future version of PHP) in /home/eneg1777/public_html/ebrutalism/api/get_blog.php on line 17
+[07-Mar-2025 10:17:07 Asia/Jakarta] PHP Warning:  Use of undefined constant blog - assumed 'blog' (this will throw an Error in a future version of PHP) in /home/eneg1777/public_html/ebrutalism/api/get_blog.php on line 17
+[07-Mar-2025 10:18:12 Asia/Jakarta] PHP Warning:  Use of undefined constant blog - assumed 'blog' (this will throw an Error in a future version of PHP) in /home/eneg1777/public_html/ebrutalism/api/get_blog.php on line 17
+[07-Mar-2025 13:39:30 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/eneg1777/public_html/ebrutalism/api/edit_blog.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/eneg1777/public_html/ebrutalism/api/edit_blog.php on line 19
+[07-Mar-2025 13:40:34 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/eneg1777/public_html/ebrutalism/api/edit_blog.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/eneg1777/public_html/ebrutalism/api/edit_blog.php on line 19
+[07-Mar-2025 13:40:38 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/eneg1777/public_html/ebrutalism/api/edit_blog.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/eneg1777/public_html/ebrutalism/api/edit_blog.php on line 19
+[07-Mar-2025 13:41:00 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/eneg1777/public_html/ebrutalism/api/edit_blog.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/eneg1777/public_html/ebrutalism/api/edit_blog.php on line 19
+[07-Mar-2025 13:41:22 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/eneg1777/public_html/ebrutalism/api/edit_blog.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/eneg1777/public_html/ebrutalism/api/edit_blog.php on line 19
+[07-Mar-2025 13:48:22 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/eneg1777/public_html/ebrutalism/api/edit_blog.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/eneg1777/public_html/ebrutalism/api/edit_blog.php on line 19
+[07-Mar-2025 13:50:41 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/eneg1777/public_html/ebrutalism/api/edit_blog.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/eneg1777/public_html/ebrutalism/api/edit_blog.php on line 19
+[07-Mar-2025 13:51:18 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/eneg1777/public_html/ebrutalism/api/edit_blog.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/eneg1777/public_html/ebrutalism/api/edit_blog.php on line 19
+[07-Mar-2025 13:51:25 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/eneg1777/public_html/ebrutalism/api/edit_project.php on line 33
+[07-Mar-2025 14:21:16 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/eneg1777/public_html/ebrutalism/api/edit_project.php on line 33
+[07-Mar-2025 21:43:12 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/eneg1777/public_html/ebrutalism/api/edit_project.php on line 33
+[07-Mar-2025 21:44:20 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/eneg1777/public_html/ebrutalism/api/edit_project.php on line 33
+[07-Mar-2025 21:51:48 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/eneg1777/public_html/ebrutalism/api/edit_project.php on line 33

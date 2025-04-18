@@ -1,0 +1,363 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap'); */
+/* @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300..700&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Geist:wght@100..900&family=Lora:ital,wght@0,400..700;1,400..700&display=swap');
+
+@import 'tailwindcss';
+
+@plugin 'tailwindcss-animate';
+
+@custom-variant dark (&:is(.dark *));
+
+@theme inline {
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+
+  --color-destructive: var(--destructive);
+  --color-destructive-foreground: var(--destructive-foreground);
+
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+
+  --radius-lg: var(--radius);
+  --radius-md: calc(var(--radius) - 2px);
+  --radius-sm: calc(var(--radius) - 4px);
+
+  --animate-accordion-down: accordion-down 0.2s ease-out;
+  --animate-accordion-up: accordion-up 0.2s ease-out;
+
+  @keyframes accordion-down {
+    from {
+      height: 0;
+    }
+    to {
+      height: var(--radix-accordion-content-height);
+    }
+  }
+  @keyframes accordion-up {
+    from {
+      height: var(--radix-accordion-content-height);
+    }
+    to {
+      height: 0;
+    }
+  }
+}
+
+@utility container {
+  margin-inline: auto;
+  padding-inline: 2rem;
+  @media (width >= --theme(--breakpoint-sm)) {
+    max-width: none;
+  }
+  @media (width >= 1400px) {
+    max-width: 1400px;
+    padding-inline: 10rem;
+  }
+}
+
+/*
+  The default border color has changed to `currentColor` in Tailwind CSS v4,
+  so we've added these compatibility styles to make sure everything still
+  looks the same as it did with Tailwind CSS v3.
+
+  If we ever want to remove these styles, we need to add an explicit border
+  color utility to any element that depends on these defaults.
+*/
+@layer base {
+  *,
+  ::after,
+  ::before,
+  ::backdrop,
+  ::file-selector-button {
+    border-color: var(--color-gray-200, currentColor);
+  }
+}
+
+/* @layer base { */
+  :root {
+    --background: hsl(0 0% 100%);
+    --foreground: hsl(20 14.3% 4.1%);
+
+    --card: hsl(0 0% 100%);
+    --card-foreground: hsl(20 14.3% 4.1%);
+
+    --popover: hsl(0 0% 100%);
+    --popover-foreground: hsl(20 14.3% 4.1%);
+
+    --primary: hsl(360, 72%, 51%);
+    --primary-foreground: hsl(60 9.1% 97.8%);
+
+    --secondary: hsl(60 4.8% 95.9%);
+    --secondary-foreground: hsl(360, 72%, 51%);
+
+    --muted: hsl(60 4.8% 95.9%);
+    --muted-foreground: hsl(25 5.3% 44.7%);
+
+    --accent: hsl(60 4.8% 95.9%);
+    --accent-foreground: hsl(360, 72%, 51%);
+
+    --destructive: hsl(0 84.2% 60.2%);
+    --destructive-foreground: hsl(60 9.1% 97.8%);
+
+    --border: hsl(20 5.9% 90%);
+    --input: hsl(20 5.9% 90%);
+    --ring: hsl(20 14.3% 4.1%);
+
+    --radius: 0.5rem;
+
+    .active{
+      color: #DC2728 !important;
+      font-weight: 600;
+    }
+  }
+
+  .dark {
+    --background: hsl(20 14.3% 4.1%);
+    --foreground: hsl(60 9.1% 97.8%);
+
+    --card: hsl(20 14.3% 4.1%);
+    --card-foreground: hsl(60 9.1% 97.8%);
+
+    --popover: hsl(20 14.3% 4.1%);
+    --popover-foreground: hsl(60 9.1% 97.8%);
+
+    --primary: hsl(60 9.1% 97.8%);
+    --primary-foreground: hsl(360, 72%, 51%);
+
+    --secondary: hsl(12 6.5% 15.1%);
+    --secondary-foreground: hsl(60 9.1% 97.8%);
+
+    --muted: hsl(12 6.5% 15.1%);
+    --muted-foreground: hsl(24 5.4% 63.9%);
+
+    --accent: hsl(12 6.5% 15.1%);
+    --accent-foreground: hsl(60 9.1% 97.8%);
+
+    --destructive: hsl(0 62.8% 30.6%);
+    --destructive-foreground: hsl(60 9.1% 97.8%);
+
+    --border: hsl(12 6.5% 15.1%);
+    --input: hsl(12 6.5% 15.1%);
+    --ring: hsl(24 5.7% 82.9%);
+
+    .active{
+      color: #DC2728 !important;
+      font-weight: 600;
+    }
+  }
+/* } */
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground;
+  }
+}
+
+@layer utilities {
+  * {
+    /* font-family: "Space Grotesk", sans-serif; */
+    /* font-family: "Plus Jakarta Sans", sans-serif; */
+    font-family: "Geist", sans-serif;
+  }
+
+  body {
+    overflow-x: hidden !important;
+  }
+}
+
+@layer utilities {
+  body{
+    width: 100vw !important;
+    overflow-x: hidden !important;
+  }
+
+  #gridx::before {
+    --line: hwb(0 79% 21% / 0.3);
+    --size: 60px;
+    content: '';
+    height: 100vh;
+    width: 100vw;
+    position: fixed;
+    background:
+      linear-gradient(90deg, var(--line) 1px, transparent 1px var(--size)) 50%
+        50% / var(--size) var(--size),
+      linear-gradient(var(--line) 1px, transparent 1px var(--size)) 50% 50% /
+        var(--size) var(--size);
+    mask: linear-gradient(0deg, transparent 25%, white);
+    top: 0;
+    z-index: -1;
+    transform: translate3d(0, 0, -100vmin);
+  }
+
+  #gridz{
+    background-color: #ffffff;
+    opacity: 1;
+    background-image:  linear-gradient(#ebebeb 1px, transparent 1px), linear-gradient(to right, #ebebeb 1px, #ffffff 1px);
+    background-size: 80px 80px;
+  }
+
+  .dark #gridz{
+    background-color: #000000;
+    opacity: 1;
+    background-image:  linear-gradient(#393939 1px, transparent 1px), linear-gradient(to right, #393939 1px, #000000 1px);
+    background-size: 80px 80px;
+  }
+
+  #teams{
+    background-color: #fdfdfd;
+    opacity: 1;
+    background-image:  repeating-radial-gradient( circle at 0 0, transparent 0, #fdfdfd 10px ), repeating-linear-gradient( #f4f4f455, #f4f4f4 );
+  }
+
+  .dark #teams{
+    background-color: #000000;
+    opacity: 1;
+    background-image:  repeating-radial-gradient( circle at 0 0, transparent 0, #000000 10px ), repeating-linear-gradient( #171717, #131313 );
+  }
+
+  #allteams{
+    background-color: #ffffff;
+    opacity: 1;
+    background-image: radial-gradient(circle at center center, #fafafa, #ffffff), repeating-radial-gradient(circle at center center, #fafafa, #fafafa, 10px, transparent 20px, transparent 10px);
+    background-blend-mode: multiply;
+  }
+
+  .dark #allteams{
+    background-color: #090909;
+    opacity: 1;
+    background-image: radial-gradient(circle at center center, #393939, #393939), repeating-radial-gradient(circle at center center, #393939, #393939, 10px, transparent 20px, transparent 10px);
+    background-blend-mode: multiply;
+  }
+
+  blockquote {
+    background: #f9f9f9;
+    border-left: 10px solid #ccc;
+    margin: 1.5em 10px;
+    padding: 1em 10px;
+    quotes: "\201C""\201D""\2018""\2019";
+  }
+  blockquote:before {
+    color: #ccc;
+    content: open-quote;
+    font-size: 4em;
+    line-height: 0.1em;
+    margin-right: 0.25em;
+    vertical-align: -0.4em;
+  }
+  blockquote p {
+    display: inline;
+  }
+  blockquote span {
+    background: #f9f9f9;
+  }
+  
+  .quill-detailnya p a{
+    text-decoration: underline;
+    color: blue;
+  }
+  
+  .map-detail p a{
+    text-decoration: underline;
+    color: blue;
+  }
+  
+  .quill-detailnya h1{
+    font-size: 1.5em;
+    font-weight: 800;
+    margin: 0 0 .5rem 0;
+  }
+  
+  .quill-detailnya h2{
+    font-size: 1em;
+    font-weight: 800;
+    margin: 0 0 .5rem 0;
+  }
+  
+  .quill-detailnya p{
+    font-size: 1rem !important;
+  }
+  
+  .quill-detailnya ol{
+    padding: revert !important;
+  }
+  
+  .quill-detailnya ol li{
+    list-style: auto;
+    list-style-position: outside;
+    padding: revert !important;
+    font-size: .875rem !important;
+  }
+  
+  .quill-detailnya ul{
+    padding: revert !important;
+    margin: 6px 0;
+  }
+  
+  .quill-detailnya ul li{
+    list-style: disc;
+    list-style-position: outside;
+    font-size: .875rem !important;
+  }
+  
+  .quill-detailnya .ql-align-center{
+    text-align: center !important;
+  }
+  
+  .quill-detailnya .ql-align-right{
+    text-align: right !important;
+  }
+  
+  .quill-detailnya .ql-size-small{
+    font-size: .7rem !important;
+    font-weight: 300;
+  }
+  
+  .quill-detailnya .ql-size-large{
+    font-size: 2rem !important;
+    font-weight: 700;
+  }
+  
+  .quill-detailnya .ql-size-huge{
+    font-size: 3rem !important;
+    font-weight: bold;
+  }
+
+  .quill-detailnya img{
+    width: 100% !important;
+  }
+  
+}
+
+/*
+  ---break---
+*/
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+  body {
+    @apply bg-background text-foreground;
+  }
+}
