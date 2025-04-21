@@ -57,14 +57,14 @@ export default function BlogDetail() {
           <h1 className="lg:text-[4rem] text-[2rem] font-bold mb-6 text-center">{blog.name}</h1>
         </div>
 
-        <div className="pt-4 pb-12 w-screen overflow-x-hidden">
-          <div className="container">
-            <img src={blog.thumbnail} alt={blog.name} className="w-full rounded-lg shadow-lg mb-6" />
+        <div className="flex flex-col lg:flex-row gap-x-8 pb-[32vh] relative container">
+          <div className="max-w-[400px]">
+            <img src={blog.thumbnail} alt={blog.name} className="w-full rounded-lg shadow-lg mb-6 object-cover" />
           </div>
-        </div>
 
-        <div className="container pb-[32vh]">
-          <div className="prose max-w-none quill-detailnya" dangerouslySetInnerHTML={{ __html: blog.description }} />
+          <div>
+            <div className="prose max-w-none quill-detailnya" dangerouslySetInnerHTML={{ __html: blog.description }} />
+          </div>
         </div>
       </AnimatedPage>
       {/* <Footer /> */}

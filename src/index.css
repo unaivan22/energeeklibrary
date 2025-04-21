@@ -305,7 +305,7 @@
   .quill-detailnya ol li{
     list-style: auto;
     list-style-position: outside;
-    padding: revert !important;
+    padding: 0 0 32px 0 !important;
     font-size: .875rem !important;
   }
   

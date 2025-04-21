@@ -92,6 +92,17 @@ export default function EditBlog() {
     }
   };
 
+  const fullToolbarOptions = [
+    [{ 'header': '1' }, { 'header': '2' }],
+    [{ 'list': 'ordered' }, { 'list': 'bullet' }],
+    [{ 'size': ['small', false, 'large', 'huge'] }],
+    [{ 'color': [] }, { 'background': [] }],
+    [{ 'align': [] }],
+    ['bold', 'italic', 'underline', 'strike', 'blockquote'],
+    ['image'], // tambahin image di toolbar
+    ['clean']
+  ];
+
   return blog ? (
     <div className="container mx-auto py-12">
       <div className="flex flex-col gap-2 mb-8">
@@ -126,6 +137,7 @@ export default function EditBlog() {
                     value={description}
                     onChange={setDescription}
                     className="w-full h-[300px] rounded"
+                    modules={{ toolbar: fullToolbarOptions }}
                   />
                 </div>
               </div>
