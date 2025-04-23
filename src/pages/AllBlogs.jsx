@@ -215,7 +215,7 @@ export default function AllBlogs() {
               <TableCaption>Daftar semua library.</TableCaption>
               <TableHeader>
                 <TableRow>
-                  <TableHead className='w-[68px]'>*</TableHead>
+                  <TableHead className='w-[68px] text-center'>*</TableHead>
                   <TableHead>Judul</TableHead>
                   {/* <TableHead>Deskripsi</TableHead> */}
                   <TableHead className="text-center w-[100px]">Aksi</TableHead>
@@ -226,7 +226,7 @@ export default function AllBlogs() {
                   [...paginatedBlogs]
                     .sort((a, b) => new Date(b.created_at) - new Date(a.created_at))
                     .map((blog) => (
-                      <TableRow key={blog.id} className="cursor-pointer hover:bg-muted/50 transition">
+                      <TableRow key={blog.id} className=" hover:bg-muted/50 transition">
                         <TableCell>
                           {blog.thumbnail && (
                             <img

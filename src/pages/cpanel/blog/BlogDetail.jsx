@@ -6,6 +6,7 @@ import Header from "@/pages/utils/Header";
 import AnimatedPage from "@/pages/utils/AnimatedPage";
 import BrutalistFooter from "@/pages/misc/footers/BrutalistFooter";
 import Footer from "@/pages/utils/Footer";
+import { ModeToggle } from "@/components/mode-toggle";
 
 export default function BlogDetail() {
   const { id } = useParams();
@@ -58,13 +59,23 @@ export default function BlogDetail() {
         </div>
 
         <div className="flex flex-col lg:flex-row gap-x-8 pb-[32vh] relative container">
-          <div className="max-w-[400px]">
-            <img src={blog.thumbnail} alt={blog.name} className="w-full rounded-lg shadow-lg mb-6 object-cover" />
+          <div className="max-w-[400px] lg:sticky top-20 self-start">
+            <img
+              src={blog.thumbnail}
+              alt={blog.name}
+              className="w-full rounded-lg shadow-lg mb-6 object-cover"
+            />
           </div>
 
           <div>
-            <div className="prose max-w-none quill-detailnya" dangerouslySetInnerHTML={{ __html: blog.description }} />
+            <div
+              className="prose max-w-none quill-detailnya"
+              dangerouslySetInnerHTML={{ __html: blog.description }}
+            />
           </div>
+        </div>
+        <div className='fixed lg:bottom-12 bottom-8 lg:right-12 right-8'>
+          <ModeToggle />
         </div>
       </AnimatedPage>
       {/* <Footer /> */}
